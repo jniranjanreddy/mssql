@@ -1,6 +1,7 @@
 # mssql
 ## Source - https://github.com/MicrosoftLearning/dp-300-database-administrator
 ## https://github.com/microsoft/sql-server-samples/releases/tag/adventureworks/
+![image](https://github.com/user-attachments/assets/3890ccfc-33db-4006-851e-9a5605729ce7)
 
 # Which port it uses.
 ## https://www.youtube.com/watch?v=wI4HWGlI6gM
